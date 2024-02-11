@@ -1,0 +1,13 @@
+body {
+    background: linear-gradient(to top left, #71737d, #1d505f) no-repeat fixed;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    min-height: 100vh;
+    
+}
+
+.container {
+    background-color: rgb(235, 235, 235);
+    width: 70vw;
+}
